@@ -1,11 +1,9 @@
 **Infor Birst — Practice Workspace**
 
-Screenshots from hands-on practice with Infor Birst, covering the platform's three core areas: data modeling, interactive dashboards, and pixel-perfect (paginated) reporting. Built using Birst's standard sample training data, not a real business dataset — this repo exists to demonstrate platform proficiency, not to showcase original data analysis.
-
-**(See my other repos for original analysis work: Online Retail — Power BI, Coffee Shop Sales — Excel)**
+Screenshots from hands-on practice with Infor Birst, covering the platform's three core areas: data modeling, interactive dashboards, and pixel-perfect (paginated) reporting. Built using Birst's sample data, not a real business dataset.
 
 **What's included**
-Data Modeling (Birst Modeler, Packages)
+Data Modeling (Birst Modeler,Visualizer,Dashboard,Designer,Packages)
 Star schema with fact tables (order details, orders, products) joined to customer, employee, product, shipper, and supplier dimensions
 
 **Interactive Dashboards (Birst Visualizer & Dashboard)**

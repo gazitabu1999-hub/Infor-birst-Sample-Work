@@ -1,4 +1,4 @@
-**Infor Birst — Practice Workspace**
+**Infor Birst — Sample work**
 
 Screenshots from hands-on practice with Infor Birst, covering the platform's three core areas: data modeling, interactive dashboards, and pixel-perfect (paginated) reporting. Built using Birst's sample data, not a real business dataset.
 
